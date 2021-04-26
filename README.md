@@ -1,0 +1,2 @@
+# artisoc_universe
+artisocのシミュレーションにおけるuniverse.vbの作成
