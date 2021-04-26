@@ -1,2 +1,2 @@
-# artisoc_universe
+# artisoc_universe_agent
 artisocのシミュレーションにおけるuniverse.vbの作成およびエージェント二種類のvb実装
